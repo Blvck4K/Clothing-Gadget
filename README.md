@@ -1,3 +1,5 @@
+Feel free to check out (https://blvck4k.github.io/Clothing-Gadget/index.html)
+
 **A simple website for advertising clothing and gadgets**
 <img width="1920" height="1080" alt="Capture2" src="https://github.com/user-attachments/assets/8dbda0d2-b80e-4cfa-81b6-5617f8eb4065" />
 <img width="1920" height="1080" alt="capture1" src="https://github.com/user-attachments/assets/55ce8cf6-7861-4576-9210-3e360a61d1d6" />
