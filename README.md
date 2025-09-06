@@ -1,1 +1,3 @@
-# Clothing-Gadget
+#A simple website for advertising clothing and gadgets
+#Online payment possible
+Frontend completed,Backend coming....... 
